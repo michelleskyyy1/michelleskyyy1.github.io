@@ -174,7 +174,7 @@ p {
     z-index: 0;
     height: 300px;
     object-fit:cover;
-}
+} 
 
 
 @media (max-width: 600px){
